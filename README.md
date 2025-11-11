@@ -1,4 +1,4 @@
-# Hi there, I'm Rupkatha 👋  
+# Hi, I'm Rupkatha 👋  
 
 🎓 **Computer Science & Engineering student** at Southeast University, Dhaka  
 💻 Passionate about **Web Development**, **AI**  
