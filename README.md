@@ -27,7 +27,7 @@
 
 ### 📫 Connect with Me
 [![LinkedIn] : in/rupkatha-sarma-1a2832342  
-[![Instagram] : rup_being_rup
+[![Instagram] : rup_being_rup 
 [![Email] : rupkathasarma@gmail.com
 
 ---
