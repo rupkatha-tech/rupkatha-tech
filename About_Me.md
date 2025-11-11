@@ -1,15 +1,13 @@
 # Hi there, I'm Rupkatha 👋  
 
 🎓 **Computer Science & Engineering student** at Southeast University, Dhaka  
-💻 Passionate about **Web Development**, **AI**, and **UI/UX**  
-🎸 I love playing guitar, singing, and creating content for my YouTube channel [Bhumika](https://youtube.com/@bhumika)
+💻 Passionate about **Web Development**, **AI**  
 
 ---
 
 ### 🌱 Currently Learning
-- React.js and Frontend Development  
-- Python & Data Structures  
-- German (A1 Level)
+- Full Stack Development
+- Python
 
 ---
 
@@ -21,9 +19,9 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C, C++, Python, JavaScript  
-**Web:** HTML, CSS, React.js  
-**Tools:** Git, VS Code, Figma, Canva  
+**Languages:** Python 
+**Web:** HTML, CSS 
+**Tools:** Git, VS Code, Canva  
 
 ---
 
