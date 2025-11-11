@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Rupkatha 👋  
 
-<!--
-**rupkatha-tech/rupkatha-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering student** at Southeast University, Dhaka  
+💻 Passionate about **Web Development**, **AI**, and **UI/UX**  
+🎸 I love playing guitar, singing, and creating content for my YouTube channel [Bhumika](https://youtube.com/@bhumika)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- React.js and Frontend Development  
+- Python & Data Structures  
+- German (A1 Level)
+
+---
+
+### 💡 Projects & Goals
+- 🔹 Build full-stack web apps  
+- 🔹 Create open-source projects  
+- 🔹 Work on real-world internships and remote freelancing opportunities  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** C, C++, Python, JavaScript  
+**Web:** HTML, CSS, React.js  
+**Tools:** Git, VS Code, Figma, Canva  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn] : in/rupkatha-sarma-1a2832342  
+[![Instagram] : rup_being_rup
+[![Email] : rupkathasarma@gmail.com
+
+---
+
+⭐️ *"Code. Create. Connect. Repeat."*  
