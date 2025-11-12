@@ -19,16 +19,18 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python 
-**Web:** HTML, CSS 
-**Tools:** Git, VS Code, Canva  
+**Languages:** [![Python] 
+**Web:** [![HTML], [![CSS] 
+**Tools:** [![Git], [![VS Code], [![Canva]  
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn] : in/rupkatha-sarma-1a2832342  
-[![Instagram] : rup_being_rup 
-[![Email] : rupkathasarma@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupkatha-sarma-1a2832342/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rup_being_rup/)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@bhumika)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupkathasarma@gmail.com
+)
 
 ---
 
